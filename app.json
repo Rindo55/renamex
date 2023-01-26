@@ -37,6 +37,11 @@
       "value": "",
       "required": false
     },
+    "DOWNLOAD_LOCATION": {
+      "description": "Id's Of Users Which You don't Want To Use The Bot..",
+      "value": "./DOWNLOADS",
+      "required": false
+    },
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
       "value": "128",
